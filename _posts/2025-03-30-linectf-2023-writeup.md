@@ -8,6 +8,7 @@ toc: true
 comments: false
 mermaid: false
 math: false
+author : Inseo An
 ---
 
 # LINECTF 2023
