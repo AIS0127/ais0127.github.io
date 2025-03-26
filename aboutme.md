@@ -3,14 +3,46 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+# Profile
+- Inseo An (AIS)
+- Nationality : South Korea
+- Birth : 2005
 
-My name is Inigo Montoya. I have the following qualities:
+# Work
+- Enki (2023.09.18 ~ 2023.12.19)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Education
+- [Korea Digital Media High School](https://www.dimigo.hs.kr/)
+- [Korea Univ](https://www.korea.ac.kr/mbshome/mbs/en/index.do)
+- Best of the Best 11th
+    - Vulnerability Analysis track top10
 
-What else do you need?
+# Teaching Experience
+- May-Aug 2024, System Hacking Basic(Pwnable), Korea Digital Medai High School  
 
-### My story
+# Team
+- Super Guesser
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Project
+- Application Vulnerability Analysis for
+Enhancing Developer Ecosystem Security
+    - Best Of The Best 11th
+
+# Award
+- 2024 3rd. Defon 32 Fianl
+- 2024 Finalist. Defon 32
+- 2024 5th. HackTheon Sejong ($3000)
+- 2023 4th. HITCON Finalist
+- 2023 1st. Whitehacker Attacker Contest ($5000)
+- 2023 3rd. CodeGate Junior ($1000)
+- 2023 8th. Defon 31 Fianl
+- 2023 Finalist. Defon 31
+- 2023 1st. Cyber Conflict Exercise ($5000)
+- 2022 3rd. Whitehat Contest Junior ($2000)
+- 2022 2nd. The Hacking Championship Junior($500)
+- 2022 1st. Cyber Conflict Exercise ($5000)
+- 2022 8th. Youth Information Security Festival
+- 2021 7th. Youth Information Security Festival
+
+# Speaker
+- Nov. 2023, Pwning Electron Application : Analysis and Defense of Vulnerabilities in electron Applications, CODE BLUE
