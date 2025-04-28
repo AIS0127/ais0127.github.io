@@ -21,6 +21,7 @@ title: About me
 
 # Team
 - Super Guesser
+- SaturnX
 
 # Project
 - Application Vulnerability Analysis for
@@ -28,8 +29,9 @@ Enhancing Developer Ecosystem Security
     - Best Of The Best 11th
 
 # Award
-- 2024 3rd. Defon 32 Fianl
-- 2024 Finalist. Defon 32
+- 2025 Finalist. Defon 33 (SuperDiceCode)
+- 2024 3rd. Defon 32 Fianl (SuperDiceCode)
+- 2024 Finalist. Defon 32 (SuperDiceCode)
 - 2024 5th. HackTheon Sejong ($3000)
 - 2023 4th. HITCON Finalist
 - 2023 1st. Whitehacker Attacker Contest ($5000)
