@@ -47,3 +47,4 @@ Enhancing Developer Ecosystem Security
 
 # Speaker
 - Nov. 2023, Pwning Electron Application : Analysis and Defense of Vulnerabilities in electron Applications, CODE BLUE
+- Aug. 2023, Pwning Electron Application : Analysis and Defense of Vulnerabilities in electron Applications, Hacking Camp 27
