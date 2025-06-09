@@ -45,7 +45,7 @@ Enhancing Developer Ecosystem Security
 - 2022 8th. Youth Information Security Festival
 - 2021 7th. Youth Information Security Festival
 
-# Vulnerability
+# Vulnerabilities
 CVE-2022-44791
 
 KVE-2023-5225
