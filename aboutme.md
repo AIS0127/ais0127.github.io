@@ -45,6 +45,23 @@ Enhancing Developer Ecosystem Security
 - 2022 8th. Youth Information Security Festival
 - 2021 7th. Youth Information Security Festival
 
+# Vulnerability
+CVE-2022-44791
+
+KVE-2023-5225
+KVE-2023-5110
+KVE-2023-5090
+KVE-2023-5089
+KVE-2023-5076
+KVE-2023-5075
+KVE-2023-5082
+KVE-2023-5081
+KVE-2023-5534
+KVE-2023-5535
+KVE-2023-5536
+
+
+
 # Speaker
-- Nov. 2023, Pwning Electron Application : Analysis and Defense of Vulnerabilities in electron Applications, CODE BLUE
+- [Nov. 2023, Pwning Electron Application : Analysis and Defense of Vulnerabilities in electron Applications, CODE BLUE](https://youtu.be/E_aDhscpQU4?si=MnpjD4Ib5aoejXEP)
 - Aug. 2023, Pwning Electron Application : Analysis and Defense of Vulnerabilities in electron Applications, Hacking Camp 27
