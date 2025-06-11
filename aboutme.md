@@ -35,7 +35,7 @@ Enhancing Developer Ecosystem Security
 - 2024 5th. HackTheon Sejong ($3000)
 - 2023 4th. HITCON Finalist
 - 2023 1st. Whitehacker Attacker Contest ($5000)
-- 2023 3rd. CodeGate Junior ($1000)
+- 2023 3rd. CodeGate Junior (Individual, $1000)
 - 2023 8th. Defon 31 Fianl
 - 2023 Finalist. Defon 31
 - 2023 1st. Cyber Conflict Exercise ($5000)
@@ -46,7 +46,7 @@ Enhancing Developer Ecosystem Security
 - 2021 7th. Youth Information Security Festival
 
 # Vulnerabilities
-- CVE-2022-44791
+- CVE-2022-44791 ([obsidian](https://obsidian.md/) Local File Disclosure)
 
 - KVE-2023-5225
 - KVE-2023-5110
