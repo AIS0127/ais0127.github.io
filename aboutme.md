@@ -8,7 +8,7 @@ title: About me
 - Birth : 2005
 
 # Work
-- Enki (2023.09.18 ~ 2023.12.19)
+- Enki (2026.01.05 ~ )
 
 # Education
 - [Korea Digital Media High School](https://www.dimigo.hs.kr/)
