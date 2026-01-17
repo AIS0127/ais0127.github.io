@@ -21,6 +21,7 @@ title: About me
 
 # Team
 - Super Guesser
+- Odin
 - SaturnX
 
 # Project
