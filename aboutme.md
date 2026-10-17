@@ -9,7 +9,7 @@ title: About me
 - Enki (2026.01.05 ~ )
 
 # Education
-- [Korea Univ](https://www.korea.ac.kr/mbshome/mbs/en/index.do)
+- [Korea Univ](https://www.korea.ac.kr/)
 - Best of the Best 11th
     - Vulnerability Analysis track top10
 
