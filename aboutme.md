@@ -4,7 +4,6 @@ title: About me
 ---
 # Profile
 - Inseo An (AIS)
-- Nationality : South Korea
 
 # Work
 - Enki (2026.01.05 ~ )
