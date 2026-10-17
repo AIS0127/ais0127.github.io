@@ -43,6 +43,7 @@ Enhancing Developer Ecosystem Security
 - 2021 7th. Youth Information Security Festival
 
 # Vulnerabilities
+
 - CVE-2026-23231
 - CVE-2026-23272
 
