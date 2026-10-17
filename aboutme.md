@@ -5,24 +5,18 @@ title: About me
 # Profile
 - Inseo An (AIS)
 - Nationality : South Korea
-- Birth : 2005
 
 # Work
 - Enki (2026.01.05 ~ )
 
 # Education
-- [Korea Digital Media High School](https://www.dimigo.hs.kr/)
 - [Korea Univ](https://www.korea.ac.kr/mbshome/mbs/en/index.do)
 - Best of the Best 11th
     - Vulnerability Analysis track top10
 
-# Teaching Experience
-- May-Aug 2024, System Hacking Basic(Pwnable), Korea Digital Medai High School  
-
 # Team
 - Super Guesser
 - Odin
-- SaturnX
 
 # Project
 - Application Vulnerability Analysis for
@@ -30,6 +24,9 @@ Enhancing Developer Ecosystem Security
     - Best Of The Best 11th
 
 # Award
+- 2026 3rd. Defon 34 Fianl (SuperDiceCodeLovers)
+- 2026 Finalist. Defon 34 (SuperDiceCodeLovers)
+- 2025 3rd. Defon 33 Fianl (SuperDiceCode)
 - 2025 Finalist. Defon 33 (SuperDiceCode)
 - 2024 3rd. Defon 32 Fianl (SuperDiceCode)
 - 2024 Finalist. Defon 32 (SuperDiceCode)
@@ -47,19 +44,13 @@ Enhancing Developer Ecosystem Security
 - 2021 7th. Youth Information Security Festival
 
 # Vulnerabilities
-- CVE-2022-44791 ([obsidian](https://obsidian.md/) Local File Disclosure)
+- CVE-2026-23231
+- CVE-2026-23272
 
-- KVE-2023-5225
-- KVE-2023-5110
-- KVE-2023-5090
-- KVE-2023-5089
-- KVE-2023-5076
-- KVE-2023-5075
-- KVE-2023-5082
-- KVE-2023-5081
-- KVE-2023-5534
-- KVE-2023-5535
-- KVE-2023-5536
+- CVE-2026-5733
+- CVE-2026-6748
+- CVE-2026-6749
+- CVE-2026-8967
 
 
 
