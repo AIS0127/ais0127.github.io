@@ -4,6 +4,8 @@ Hexo blog using the [Cactus theme](https://github.com/probberechts/hexo-theme-ca
 
 Requires Node.js 22.
 
+To add your CV, place a PDF named `cv.pdf` in the `source` directory. The CV navigation link points to `/cv.pdf`.
+
 ```sh
 npm ci
 npm run server

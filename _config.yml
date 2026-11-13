@@ -125,8 +125,7 @@ theme_config:
     home: /
     about: /aboutme.html
     articles: /archives/
-    projects: https://github.com/AIS0127
-  projects_url: https://github.com/AIS0127
+    CV: /cv.pdf
   social_links:
     - icon: github
       link: https://github.com/AIS0127
