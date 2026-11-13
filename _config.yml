@@ -104,6 +104,7 @@ deploy:
   type: ''
 
 theme_config:
+  colorscheme: classic
   logo:
     enabled: true
     width: 50
