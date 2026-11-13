@@ -111,6 +111,16 @@ theme_config:
     url: /assets/img/cat.jpeg
     gravatar: false
     grayout: false
+  favicon:
+    desktop:
+      url: /assets/img/profile-favicon.ico
+      gravatar: false
+    android:
+      url: /assets/img/profile-favicon-192.png
+      gravatar: false
+    apple:
+      url: /assets/img/profile-apple-touch-icon.png
+      gravatar: false
   nav:
     home: /
     about: /aboutme.html
