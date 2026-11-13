@@ -104,6 +104,13 @@ deploy:
   type: ''
 
 theme_config:
+  logo:
+    enabled: true
+    width: 50
+    height: 50
+    url: /assets/img/cat.jpeg
+    gravatar: false
+    grayout: false
   nav:
     home: /
     about: /aboutme.html
